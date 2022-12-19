@@ -1,3 +1,7 @@
+## Surprise friends
+This is a simple randomize app to use with your friends.
+This is not customizable at this point.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
